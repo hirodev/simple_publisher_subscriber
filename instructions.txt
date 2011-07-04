@@ -1,0 +1,10 @@
+Test 2. Multi Power Point
+A power switch is required that can turn on or off any number of appliances. An appliance is, for example, a Blender, a Toaster, or an Oven.
+ 
+Other programmers have already written those appliances and you can't change their source code.  For example, you cannot require them all to implement a particular interface. 
+Fortunately, each such appliance already has two methods to turn its particular appliance on and off. 
+Unfortunately, all such methods were written by different people and have different names (e.g. Blender.swizzle(), Toaster.startToasting(), Oven.heatUp()).
+
+-Write three third party appliances and put them in a separate package. It should be visible from the output of each appliance whether it is turned on or off (in its third party vocabulary).
+-Make a representation of a multi-power point. You can plug in as many appliances as you wish and turn them on and off all at once, by turning the multi-power point on() and off().
+

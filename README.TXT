@@ -1,0 +1,1 @@
+I could have used the adaptor design pattern here, but it seems like that would overcomplicate such a small project. That may be an option for larger, more complex interface compatibility conundrums. Either way, I would likely have still used the publisher/subscriber pattern as I have here.

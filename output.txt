@@ -1,0 +1,35 @@
+Welcome to the "Multi Power Point."
+
+Plugging in my Big Red Blender
+Plugging in my Shiny Chrome Toaster
+Plugging in my Powerful Double Oven
+
+Hit the on switch
+Turning on Big Red Blender
+Blender *swizzle*
+Turning on Powerful Double Oven
+Oven heating
+Turning on Shiny Chrome Toaster
+Toaster lever pulled
+
+Hit the off switch
+Turning off Big Red Blender
+Blender stop swizzle
+Turning off Powerful Double Oven
+Oven cooling
+Turning off Shiny Chrome Toaster
+Toaster done toasting
+
+Unplugging my Shiny Chrome Toaster
+
+Hit the on switch
+Turning on Big Red Blender
+Blender *swizzle*
+Turning on Powerful Double Oven
+Oven heating
+
+Hit the off switch
+Turning off Big Red Blender
+Blender stop swizzle
+Turning off Powerful Double Oven
+Oven cooling
